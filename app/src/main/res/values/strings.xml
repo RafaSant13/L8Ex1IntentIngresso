@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L8Ex1IntentIngresso</string>
+    <string name="id">ID</string>
+    <string name="valor">Valor do ingresso</string>
+    <string name="funcao">Função</string>
+    <string name="vip">VIP</string>
+    <string name="salvar">Salvar</string>
+    <string name="taxa">Taxa de conveniência</string>
+    <string name="comprar">Comprar</string>
+    <string name="dados">Dados da Compra</string>
+    <string name="voltar">Voltar</string>
+    <string name="valorfinal">"\nValor final: "</string>
+</resources>
